@@ -1,7 +1,7 @@
 # 📚 BookWise - Library Management System
 
 
-![LiveDocs](./screenshots/livedocs.png)
+![bookwise](./screenshots/bookwise.png)
 
 🌟 Features
 

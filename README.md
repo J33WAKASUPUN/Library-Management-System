@@ -157,7 +157,7 @@ Dependencies:
 
 👥 Authors
 
-Your Name - Initial work - [Jeewaka Supun](https://github.com/J33WAKASUPUN)
+Initial work - [Jeewaka Supun](https://github.com/J33WAKASUPUN)
 
 - 📧 Email: supunprabodha789@gmail.com
 - 🔗 LinkedIn: [ https://lk.linkedin.com/in/jeewaka-supun-221780218]

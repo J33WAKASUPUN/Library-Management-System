@@ -1,4 +1,5 @@
-📚 BookWise - Library Management System
+# 📚 BookWise - Library Management System
+---
 
 ![LiveDocs](./screenshots/livedocs.png)
 

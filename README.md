@@ -50,7 +50,7 @@ Dependencies:
 
 🚀 Installation & Setup
 
-1.Clone the Repository
+1.Clone the Repository then extract target.zip
 
       git clone https://github.com/yourusername/BookWise-LMS.git
       

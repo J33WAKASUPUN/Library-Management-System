@@ -52,7 +52,7 @@ Dependencies:
 
 1.Clone the Repository then extract target.zip
 
-      git clone https://github.com/yourusername/BookWise-LMS.git
+      git clone https://github.com/J33WAKASUPUN/Library-Management-System.git
       
 2.Database Setup
 

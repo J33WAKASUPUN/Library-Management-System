@@ -136,25 +136,41 @@ Dependencies:
 
 📁 Project Structure
 
-    LMS_new/
-    ├── src/
-    │   ├── default package/
-    │   │   ├── dashboard.java
-    │   │   ├── addBooks.java
-    │   │   ├── editStudents.java
-    │   │   ├── home.java
-    │   │   ├── issuedBooks.java
-    │   │   ├── login.java
-    │   │   ├── newBooks.java
-    │   │   ├── newStudents.java
-    │   │   └── returnedBooks.java
-    │   └── ConnectionProvider.java
-    ├── Dependencies/
-    │   ├── AbsoluteLayout-RELEASE210.jar
-    │   ├── jcalendar-1.4.jar
-    │   ├── mysql-connector-java-8.0.30.jar
-    │   └── protobuf-java-3.19.4.jar
-    └── README.md
+    LMS_OOP/
+    ├── Source Packages/
+    │   ├── ConnectionProvider.java
+    │   ├── com.mycompany.lms_oop/
+    │   │   └── LMS_OOP.java
+    │   ├── controller/
+    │   │   ├── books_controller.java
+    │   │   ├── issueBooks_controller.java
+    │   │   ├── login_controller.java
+    │   │   ├── returnBooks_controller.java
+    │   │   ├── students_controller.java
+    │   │   └── users_controller.java
+    │   ├── model/
+    │   │   ├── books_model.java
+    │   │   ├── issueBooks_model.java
+    │   │   ├── login_model.java
+    │   │   ├── returnBooks_model.java
+    │   │   ├── students_model.java
+    │   │   └── users_model.java
+    │   └── view/
+    │       ├── books_view.java
+    │       ├── home_view.java
+    │       ├── issueBooks_view.java
+    │       ├── login_view.java
+    │       ├── returnBooks_view.java
+    │       ├── statistics_view.java
+    │       └── students_view.java
+    ├── Test Packages/
+    │   └── <default package>/
+    └── Dependencies/
+        ├── AbsoluteLayout-RELEASE210.jar
+        ├── jcalendar-1.4.jar
+        ├── mysql-connector-java-8.0.30.jar
+        └── protobuf-java-3.19.4.jar
+
 
 👥 Authors
 
